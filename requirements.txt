@@ -1,0 +1,15 @@
+cv2                                   
+fer                         
+matplotlib             
+moviepy.editor
+datetime
+pandas                          
+numpy
+seaborn                        
+os                                    
+subprocess
+speech_recognition
+ffmpeg
+shlex
+nltk
+nltk.sentiment.vader
